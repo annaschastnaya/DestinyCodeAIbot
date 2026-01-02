@@ -1,4 +1,4 @@
-cat > bot.py <<'PY'
+
 import os
 import re
 import asyncio
